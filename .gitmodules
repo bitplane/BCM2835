@@ -522,3 +522,18 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver.git
+[submodule "RiscOS/Sources/Lib/SyncLib"]
+	path = RiscOS/Sources/Lib/SyncLib
+	url = ../../RiscOS/Sources/Lib/SyncLib.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherUSB"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherUSB
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherUSB.git
+[submodule "RiscOS/Sources/FileSys/SDFS/SDFS"]
+	path = RiscOS/Sources/FileSys/SDFS/SDFS
+	url = ../../RiscOS/Sources/FileSys/SDFS/SDFS.git
+[submodule "RiscOS/Sources/HWSupport/SD/SDCMOS"]
+	path = RiscOS/Sources/HWSupport/SD/SDCMOS
+	url = ../../RiscOS/Sources/HWSupport/SD/SDCMOS.git
+[submodule "RiscOS/Sources/HWSupport/SD/SDIODriver"]
+	path = RiscOS/Sources/HWSupport/SD/SDIODriver
+	url = ../../RiscOS/Sources/HWSupport/SD/SDIODriver.git
