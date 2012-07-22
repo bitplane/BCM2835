@@ -537,3 +537,9 @@
 [submodule "RiscOS/Sources/HWSupport/SD/SDIODriver"]
 	path = RiscOS/Sources/HWSupport/SD/SDIODriver
 	url = ../../RiscOS/Sources/HWSupport/SD/SDIODriver.git
+[submodule "RiscOS/Sources/HWSupport/BCMSupport"]
+	path = RiscOS/Sources/HWSupport/BCMSupport
+	url = ../../RiscOS/Sources/HWSupport/BCMSupport.git
+[submodule "RiscOS/Sources/Video/HWSupport/BCMVideo"]
+	path = RiscOS/Sources/Video/HWSupport/BCMVideo
+	url = ../../RiscOS/Sources/Video/HWSupport/BCMVideo.git
