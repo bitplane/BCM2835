@@ -543,3 +543,9 @@
 [submodule "RiscOS/Sources/Video/HWSupport/BCMVideo"]
 	path = RiscOS/Sources/Video/HWSupport/BCMVideo
 	url = ../../RiscOS/Sources/Video/HWSupport/BCMVideo.git
+[submodule "RiscOS/Sources/HWSupport/Sound/BCMSound"]
+	path = RiscOS/Sources/HWSupport/Sound/BCMSound
+	url = ../../RiscOS/Sources/HWSupport/Sound/BCMSound.git
+[submodule "RiscOS/Sources/HWSupport/VCHIQ"]
+	path = RiscOS/Sources/HWSupport/VCHIQ
+	url = ../../RiscOS/Sources/HWSupport/VCHIQ.git
