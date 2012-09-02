@@ -552,3 +552,6 @@
 [submodule "RiscOS/Sources/Lib/ConfigLib"]
 	path = RiscOS/Sources/Lib/ConfigLib
 	url = ../../RiscOS/Sources/Lib/ConfigLib.git
+[submodule "RiscOS/Sources/Video/UserI/BootFX"]
+	path = RiscOS/Sources/Video/UserI/BootFX
+	url = ../../RiscOS/Sources/Video/UserI/BootFX.git
