@@ -549,3 +549,6 @@
 [submodule "RiscOS/Sources/HWSupport/VCHIQ"]
 	path = RiscOS/Sources/HWSupport/VCHIQ
 	url = ../../RiscOS/Sources/HWSupport/VCHIQ.git
+[submodule "RiscOS/Sources/Lib/ConfigLib"]
+	path = RiscOS/Sources/Lib/ConfigLib
+	url = ../../RiscOS/Sources/Lib/ConfigLib.git
