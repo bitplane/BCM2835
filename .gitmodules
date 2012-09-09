@@ -555,3 +555,6 @@
 [submodule "RiscOS/Sources/Video/UserI/BootFX"]
 	path = RiscOS/Sources/Video/UserI/BootFX
 	url = ../../RiscOS/Sources/Video/UserI/BootFX.git
+[submodule "RiscOS/Sources/Networking/URI"]
+	path = RiscOS/Sources/Networking/URI
+	url = ../../RiscOS/Sources/Networking/URI.git
