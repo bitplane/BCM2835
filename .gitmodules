@@ -558,3 +558,6 @@
 [submodule "RiscOS/Sources/Networking/URI"]
 	path = RiscOS/Sources/Networking/URI
 	url = ../../RiscOS/Sources/Networking/URI.git
+[submodule "RiscOS/Sources/SystemRes/HeroNames"]
+	path = RiscOS/Sources/SystemRes/HeroNames
+	url = ../../RiscOS/Sources/SystemRes/HeroNames.git
