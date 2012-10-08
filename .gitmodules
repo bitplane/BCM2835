@@ -356,9 +356,6 @@
 [submodule "RiscOS/Sources/Programmer/SquashBlob"]
 	path = RiscOS/Sources/Programmer/SquashBlob
 	url = ../../RiscOS/Sources/Programmer/SquashBlob.git
-[submodule "RiscOS/Sources/SystemRes/RPiFiles"]
-	path = RiscOS/Sources/SystemRes/RPiFiles
-	url = ../../RiscOS/Sources/SystemRes/RPiFiles.git
 [submodule "RiscOS/Sources/Toolbox/ColourDbox"]
 	path = RiscOS/Sources/Toolbox/ColourDbox
 	url = ../../RiscOS/Sources/Toolbox/ColourDbox.git
