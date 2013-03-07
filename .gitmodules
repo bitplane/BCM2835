@@ -139,9 +139,6 @@
 [submodule "RiscOS/Sources/FileSys/SCSIFS/SCSIFS"]
 	path = RiscOS/Sources/FileSys/SCSIFS/SCSIFS
 	url = ../../RiscOS/Sources/FileSys/SCSIFS/SCSIFS.git
-[submodule "RiscOS/Sources/HWSupport/ARM"]
-	path = RiscOS/Sources/HWSupport/ARM
-	url = ../../RiscOS/Sources/HWSupport/ARM.git
 [submodule "RiscOS/Sources/HWSupport/Buffers"]
 	path = RiscOS/Sources/HWSupport/Buffers
 	url = ../../RiscOS/Sources/HWSupport/Buffers.git
@@ -183,9 +180,6 @@
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISwitch"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISwitch
 	url = ../../RiscOS/Sources/HWSupport/SCSI/SCSISwitch.git
-[submodule "RiscOS/Sources/HWSupport/SerKeyMouse"]
-	path = RiscOS/Sources/HWSupport/SerKeyMouse
-	url = ../../RiscOS/Sources/HWSupport/SerKeyMouse.git
 [submodule "RiscOS/Sources/HWSupport/SerMouse"]
 	path = RiscOS/Sources/HWSupport/SerMouse
 	url = ../../RiscOS/Sources/HWSupport/SerMouse.git
