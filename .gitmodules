@@ -549,6 +549,3 @@
 [submodule "RiscOS/Sources/Networking/MimeMap"]
 	path = RiscOS/Sources/Networking/MimeMap
 	url = ../../RiscOS/Sources/Networking/MimeMap.git
-[submodule "RiscOS/Sources/HWSupport/SerKeyMouse"]
-	path = RiscOS/Sources/HWSupport/SerKeyMouse
-	url = ../../RiscOS/Sources/HWSupport/SerKeyMouse.git
