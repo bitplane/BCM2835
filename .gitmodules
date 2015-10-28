@@ -546,3 +546,6 @@
 [submodule "RiscOS/Sources/Networking/MimeMap"]
 	path = RiscOS/Sources/Networking/MimeMap
 	url = ../../RiscOS/Sources/Networking/MimeMap.git
+[submodule "RiscOS/Sources/HWSupport/GPIO"]
+	path = RiscOS/Sources/HWSupport/GPIO
+	url = ../../RiscOS/Sources/HWSupport/GPIO.git
