@@ -549,3 +549,6 @@
 [submodule "RiscOS/Sources/HWSupport/GPIO"]
 	path = RiscOS/Sources/HWSupport/GPIO
 	url = ../../RiscOS/Sources/HWSupport/GPIO.git
+[submodule "RiscOS/Sources/HWSupport/BCMSupport"]
+	path = RiscOS/Sources/HWSupport/BCMSupport
+	url = ../../RiscOS/Sources/HWSupport/BCMSupport.git
