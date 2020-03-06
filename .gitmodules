@@ -555,3 +555,6 @@
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver.git
+[submodule "RiscOS/Sources/Networking/Ethernet/EtherGENET"]
+	path = RiscOS/Sources/Networking/Ethernet/EtherGENET
+	url = ../../RiscOS/Sources/Networking/Ethernet/EtherGENET.git
