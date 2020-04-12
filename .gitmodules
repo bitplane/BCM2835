@@ -558,3 +558,6 @@
 [submodule "RiscOS/Sources/Networking/Ethernet/EtherGENET"]
 	path = RiscOS/Sources/Networking/Ethernet/EtherGENET
 	url = ../../RiscOS/Sources/Networking/Ethernet/EtherGENET.git
+[submodule "RiscOS/Sources/Desktop/WindowScroll"]
+	path = RiscOS/Sources/Desktop/WindowScroll
+	url = ../../RiscOS/Sources/Desktop/WindowScroll.git
