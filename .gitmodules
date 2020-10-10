@@ -261,9 +261,6 @@
 [submodule "RiscOS/Sources/Lib/remotedb"]
 	path = RiscOS/Sources/Lib/remotedb
 	url = ../../RiscOS/Sources/Lib/remotedb.git
-[submodule "RiscOS/Sources/Networking/AUN/AUNMsgs"]
-	path = RiscOS/Sources/Networking/AUN/AUNMsgs
-	url = ../../RiscOS/Sources/Networking/AUN/AUNMsgs.git
 [submodule "RiscOS/Sources/Networking/AUN/Access/Freeway"]
 	path = RiscOS/Sources/Networking/AUN/Access/Freeway
 	url = ../../RiscOS/Sources/Networking/AUN/Access/Freeway.git
@@ -521,9 +518,6 @@
 [submodule "RiscOS/Sources/Video/UserI/BootFX"]
 	path = RiscOS/Sources/Video/UserI/BootFX
 	url = ../../RiscOS/Sources/Video/UserI/BootFX.git
-[submodule "RiscOS/Sources/Networking/URI"]
-	path = RiscOS/Sources/Networking/URI
-	url = ../../RiscOS/Sources/Networking/URI.git
 [submodule "RiscOS/Sources/SystemRes/HeroNames"]
 	path = RiscOS/Sources/SystemRes/HeroNames
 	url = ../../RiscOS/Sources/SystemRes/HeroNames.git
