@@ -555,3 +555,6 @@
 [submodule "RiscOS/Sources/Desktop/WindowScroll"]
 	path = RiscOS/Sources/Desktop/WindowScroll
 	url = ../../RiscOS/Sources/Desktop/WindowScroll.git
+[submodule "RiscOS/Sources/Video/Render/CompressPNG"]
+	path = RiscOS/Sources/Video/Render/CompressPNG
+	url = ../../RiscOS/Sources/Video/Render/CompressPNG.git
