@@ -327,7 +327,6 @@
 [submodule "RiscOS/Sources/Programmer/HostFS"]
 	path = RiscOS/Sources/Programmer/HostFS
 	url = ../../RiscOS/Sources/Programmer/HostFS.git
-	branch = HAL
 [submodule "RiscOS/Sources/Programmer/Obey"]
 	path = RiscOS/Sources/Programmer/Obey
 	url = ../../RiscOS/Sources/Programmer/Obey.git
