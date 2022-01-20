@@ -557,3 +557,6 @@
 [submodule "RiscOS/Sources/Video/Render/CompressPNG"]
 	path = RiscOS/Sources/Video/Render/CompressPNG
 	url = ../../RiscOS/Sources/Video/Render/CompressPNG.git
+[submodule "RiscOS/Sources/Lib/SDIOLib"]
+	path = RiscOS/Sources/Lib/SDIOLib
+	url = ../../RiscOS/Sources/Lib/SDIOLib.git
