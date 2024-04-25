@@ -159,18 +159,12 @@
 	path = RiscOS/Sources/HWSupport/IIC
 	url = ../../RiscOS/Sources/HWSupport/IIC.git
 	branch = HAL
-[submodule "RiscOS/Sources/HWSupport/NVRAM"]
-	path = RiscOS/Sources/HWSupport/NVRAM
-	url = ../../RiscOS/Sources/HWSupport/NVRAM.git
 [submodule "RiscOS/Sources/HWSupport/PCI"]
 	path = RiscOS/Sources/HWSupport/PCI
 	url = ../../RiscOS/Sources/HWSupport/PCI.git
 [submodule "RiscOS/Sources/HWSupport/Podule"]
 	path = RiscOS/Sources/HWSupport/Podule
 	url = ../../RiscOS/Sources/HWSupport/Podule.git
-[submodule "RiscOS/Sources/HWSupport/PortMan"]
-	path = RiscOS/Sources/HWSupport/PortMan
-	url = ../../RiscOS/Sources/HWSupport/PortMan.git
 [submodule "RiscOS/Sources/HWSupport/PortableHAL"]
 	path = RiscOS/Sources/HWSupport/PortableHAL
 	url = ../../RiscOS/Sources/HWSupport/PortableHAL.git
@@ -294,15 +288,9 @@
 [submodule "RiscOS/Sources/Networking/ResolverBlob"]
 	path = RiscOS/Sources/Networking/ResolverBlob
 	url = ../../RiscOS/Sources/Networking/ResolverBlob.git
-[submodule "RiscOS/Sources/Printing/Modules/MakePSFont"]
-	path = RiscOS/Sources/Printing/Modules/MakePSFont
-	url = ../../RiscOS/Sources/Printing/Modules/MakePSFont.git
 [submodule "RiscOS/Sources/Printing/Modules/PDriver"]
 	path = RiscOS/Sources/Printing/Modules/PDriver
 	url = ../../RiscOS/Sources/Printing/Modules/PDriver.git
-[submodule "RiscOS/Sources/Printing/PDumpers"]
-	path = RiscOS/Sources/Printing/PDumpers
-	url = ../../RiscOS/Sources/Printing/PDumpers.git
 [submodule "RiscOS/Sources/Programmer/BASIC"]
 	path = RiscOS/Sources/Programmer/BASIC
 	url = ../../RiscOS/Sources/Programmer/BASIC.git
@@ -315,9 +303,6 @@
 [submodule "RiscOS/Sources/Programmer/DDEUtils"]
 	path = RiscOS/Sources/Programmer/DDEUtils
 	url = ../../RiscOS/Sources/Programmer/DDEUtils.git
-[submodule "RiscOS/Sources/Programmer/DDTHdr"]
-	path = RiscOS/Sources/Programmer/DDTHdr
-	url = ../../RiscOS/Sources/Programmer/DDTHdr.git
 [submodule "RiscOS/Sources/Programmer/Debugger"]
 	path = RiscOS/Sources/Programmer/Debugger
 	url = ../../RiscOS/Sources/Programmer/Debugger.git
