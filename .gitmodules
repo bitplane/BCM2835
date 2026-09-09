@@ -15,7 +15,7 @@
 	url = ../../RiscOS/Apps/AppsMakefile.git
 [submodule "RiscOS/BuildSys"]
 	path = RiscOS/BuildSys
-	url = ../../RiscOS/BuildSys.git
+	url = https://gitlab.riscosopen.org/bavison/BuildSys.git
 [submodule "RiscOS/Env"]
 	path = RiscOS/Env
 	url = ../../RiscOS/Env.git
@@ -30,7 +30,7 @@
 	url = ../../RiscOS/Sources/Apps/Chars.git
 [submodule "RiscOS/Sources/Apps/Draw"]
 	path = RiscOS/Sources/Apps/Draw
-	url = ../../RiscOS/Sources/Apps/Draw.git
+	url = https://gitlab.riscosopen.org/bavison/Draw.git
 [submodule "RiscOS/Sources/Apps/EditApp"]
 	path = RiscOS/Sources/Apps/EditApp
 	url = ../../RiscOS/Sources/Apps/EditApp.git
@@ -39,13 +39,13 @@
 	url = ../../RiscOS/Sources/Apps/Help2.git
 [submodule "RiscOS/Sources/Apps/Paint"]
 	path = RiscOS/Sources/Apps/Paint
-	url = ../../RiscOS/Sources/Apps/Paint.git
+	url = https://gitlab.riscosopen.org/bavison/Paint.git
 [submodule "RiscOS/Sources/Audio/SoundCtrl"]
 	path = RiscOS/Sources/Audio/SoundCtrl
 	url = ../../RiscOS/Sources/Audio/SoundCtrl.git
 [submodule "RiscOS/Sources/Desktop/Desktop"]
 	path = RiscOS/Sources/Desktop/Desktop
-	url = ../../RiscOS/Sources/Desktop/Desktop.git
+	url = https://gitlab.riscosopen.org/bavison/Desktop.git
 [submodule "RiscOS/Sources/Desktop/DragASprit"]
 	path = RiscOS/Sources/Desktop/DragASprit
 	url = ../../RiscOS/Sources/Desktop/DragASprit.git
@@ -54,7 +54,7 @@
 	url = ../../RiscOS/Sources/Desktop/DragAnObj.git
 [submodule "RiscOS/Sources/Desktop/Filer"]
 	path = RiscOS/Sources/Desktop/Filer
-	url = ../../RiscOS/Sources/Desktop/Filer.git
+	url = https://gitlab.riscosopen.org/bavison/Filer.git
 [submodule "RiscOS/Sources/Desktop/FilerAct"]
 	path = RiscOS/Sources/Desktop/FilerAct
 	url = ../../RiscOS/Sources/Desktop/FilerAct.git
@@ -66,7 +66,7 @@
 	url = ../../RiscOS/Sources/Desktop/Filter.git
 [submodule "RiscOS/Sources/Desktop/Free"]
 	path = RiscOS/Sources/Desktop/Free
-	url = ../../RiscOS/Sources/Desktop/Free.git
+	url = https://gitlab.riscosopen.org/bavison/Free.git
 [submodule "RiscOS/Sources/Desktop/Pinboard"]
 	path = RiscOS/Sources/Desktop/Pinboard
 	url = ../../RiscOS/Sources/Desktop/Pinboard.git
@@ -75,7 +75,7 @@
 	url = ../../RiscOS/Sources/Desktop/ShellCLI.git
 [submodule "RiscOS/Sources/Desktop/Switcher"]
 	path = RiscOS/Sources/Desktop/Switcher
-	url = ../../RiscOS/Sources/Desktop/Switcher.git
+	url = https://gitlab.riscosopen.org/bavison/Switcher.git
 [submodule "RiscOS/Sources/Desktop/TaskWindow"]
 	path = RiscOS/Sources/Desktop/TaskWindow
 	url = ../../RiscOS/Sources/Desktop/TaskWindow.git
@@ -87,22 +87,22 @@
 	url = ../../RiscOS/Sources/Desktop/WimpUtils.git
 [submodule "RiscOS/Sources/FileSys/ADFS/ADFS"]
 	path = RiscOS/Sources/FileSys/ADFS/ADFS
-	url = ../../RiscOS/Sources/FileSys/ADFS/ADFS.git
+	url = https://gitlab.riscosopen.org/bavison/ADFS.git
 [submodule "RiscOS/Sources/FileSys/ADFS/ADFSFiler"]
 	path = RiscOS/Sources/FileSys/ADFS/ADFSFiler
-	url = ../../RiscOS/Sources/FileSys/ADFS/ADFSFiler.git
+	url = https://gitlab.riscosopen.org/bavison/ADFSFiler.git
 [submodule "RiscOS/Sources/FileSys/CDFS/CDFS"]
 	path = RiscOS/Sources/FileSys/CDFS/CDFS
 	url = ../../RiscOS/Sources/FileSys/CDFS/CDFS.git
 [submodule "RiscOS/Sources/FileSys/CDFS/CDFSFiler"]
 	path = RiscOS/Sources/FileSys/CDFS/CDFSFiler
-	url = ../../RiscOS/Sources/FileSys/CDFS/CDFSFiler.git
+	url = https://gitlab.riscosopen.org/bavison/CDFSFiler.git
 [submodule "RiscOS/Sources/FileSys/FSLock"]
 	path = RiscOS/Sources/FileSys/FSLock
 	url = ../../RiscOS/Sources/FileSys/FSLock.git
 [submodule "RiscOS/Sources/FileSys/FileCore"]
 	path = RiscOS/Sources/FileSys/FileCore
-	url = ../../RiscOS/Sources/FileSys/FileCore.git
+	url = https://gitlab.riscosopen.org/bavison/FileCore.git
 [submodule "RiscOS/Sources/FileSys/FileSwitch"]
 	path = RiscOS/Sources/FileSys/FileSwitch
 	url = ../../RiscOS/Sources/FileSys/FileSwitch.git
@@ -126,7 +126,7 @@
 	url = ../../RiscOS/Sources/FileSys/PipeFS.git
 [submodule "RiscOS/Sources/FileSys/RAMFS/RAMFS"]
 	path = RiscOS/Sources/FileSys/RAMFS/RAMFS
-	url = ../../RiscOS/Sources/FileSys/RAMFS/RAMFS.git
+	url = https://gitlab.riscosopen.org/bavison/RAMFS.git
 [submodule "RiscOS/Sources/FileSys/RAMFS/RAMFSFiler"]
 	path = RiscOS/Sources/FileSys/RAMFS/RAMFSFiler
 	url = ../../RiscOS/Sources/FileSys/RAMFS/RAMFSFiler.git
@@ -138,7 +138,7 @@
 	url = ../../RiscOS/Sources/FileSys/ResourceFS/ResourceFS.git
 [submodule "RiscOS/Sources/FileSys/SCSIFS/SCSIFS"]
 	path = RiscOS/Sources/FileSys/SCSIFS/SCSIFS
-	url = ../../RiscOS/Sources/FileSys/SCSIFS/SCSIFS.git
+	url = https://gitlab.riscosopen.org/bavison/SCSIFS.git
 [submodule "RiscOS/Sources/HWSupport/Buffers"]
 	path = RiscOS/Sources/HWSupport/Buffers
 	url = ../../RiscOS/Sources/HWSupport/Buffers.git
@@ -153,7 +153,7 @@
 	url = ../../RiscOS/Sources/HWSupport/DeviceFS.git
 [submodule "RiscOS/Sources/HWSupport/DualSerial"]
 	path = RiscOS/Sources/HWSupport/DualSerial
-	url = ../../RiscOS/Sources/HWSupport/DualSerial.git
+	url = https://gitlab.riscosopen.org/bavison/DualSerial.git
 	branch = HAL
 [submodule "RiscOS/Sources/HWSupport/IIC"]
 	path = RiscOS/Sources/HWSupport/IIC
@@ -161,10 +161,10 @@
 	branch = HAL
 [submodule "RiscOS/Sources/HWSupport/PCI"]
 	path = RiscOS/Sources/HWSupport/PCI
-	url = ../../RiscOS/Sources/HWSupport/PCI.git
+	url = https://gitlab.riscosopen.org/bavison/PCI.git
 [submodule "RiscOS/Sources/HWSupport/Podule"]
 	path = RiscOS/Sources/HWSupport/Podule
-	url = ../../RiscOS/Sources/HWSupport/Podule.git
+	url = https://gitlab.riscosopen.org/bavison/Podule.git
 [submodule "RiscOS/Sources/HWSupport/PortableHAL"]
 	path = RiscOS/Sources/HWSupport/PortableHAL
 	url = ../../RiscOS/Sources/HWSupport/PortableHAL.git
@@ -185,7 +185,7 @@
 	url = ../../RiscOS/Sources/HWSupport/SerialSpt.git
 [submodule "RiscOS/Sources/HWSupport/Sound/Sound0HAL"]
 	path = RiscOS/Sources/HWSupport/Sound/Sound0HAL
-	url = ../../RiscOS/Sources/HWSupport/Sound/Sound0HAL.git
+	url = https://gitlab.riscosopen.org/bavison/Sound0HAL.git
 [submodule "RiscOS/Sources/HWSupport/Sound/Sound1"]
 	path = RiscOS/Sources/HWSupport/Sound/Sound1
 	url = ../../RiscOS/Sources/HWSupport/Sound/Sound1.git
@@ -215,7 +215,7 @@
 	url = ../../RiscOS/Sources/Internat/Inter.git
 [submodule "RiscOS/Sources/Internat/Messages"]
 	path = RiscOS/Sources/Internat/Messages
-	url = ../../RiscOS/Sources/Internat/Messages.git
+	url = https://gitlab.riscosopen.org/bavison/Messages.git
 [submodule "RiscOS/Sources/Internat/MsgTrans"]
 	path = RiscOS/Sources/Internat/MsgTrans
 	url = ../../RiscOS/Sources/Internat/MsgTrans.git
@@ -227,7 +227,7 @@
 	url = ../../RiscOS/Sources/Internat/Territory/TerritoryModule.git
 [submodule "RiscOS/Sources/Kernel"]
 	path = RiscOS/Sources/Kernel
-	url = ../../RiscOS/Sources/Kernel.git
+	url = https://gitlab.riscosopen.org/bavison/Kernel.git
 [submodule "RiscOS/Sources/Lib/AsmUtils"]
 	path = RiscOS/Sources/Lib/AsmUtils
 	url = ../../RiscOS/Sources/Lib/AsmUtils.git
@@ -236,13 +236,13 @@
 	url = ../../RiscOS/Sources/Lib/DebugLib.git
 [submodule "RiscOS/Sources/Lib/ModMalloc"]
 	path = RiscOS/Sources/Lib/ModMalloc
-	url = ../../RiscOS/Sources/Lib/ModMalloc.git
+	url = https://gitlab.riscosopen.org/bavison/ModMalloc.git
 [submodule "RiscOS/Sources/Lib/PDebug"]
 	path = RiscOS/Sources/Lib/PDebug
-	url = ../../RiscOS/Sources/Lib/PDebug.git
+	url = https://gitlab.riscosopen.org/bavison/PDebug.git
 [submodule "RiscOS/Sources/Lib/PlainArgv"]
 	path = RiscOS/Sources/Lib/PlainArgv
-	url = ../../RiscOS/Sources/Lib/PlainArgv.git
+	url = https://gitlab.riscosopen.org/bavison/PlainArgv.git
 [submodule "RiscOS/Sources/Lib/RISC_OSLib"]
 	path = RiscOS/Sources/Lib/RISC_OSLib
 	url = ../../RiscOS/Sources/Lib/RISC_OSLib.git
@@ -260,13 +260,13 @@
 	url = ../../RiscOS/Sources/Networking/AUN/Access/Freeway.git
 [submodule "RiscOS/Sources/Networking/AUN/Access/ShareFSBlob"]
 	path = RiscOS/Sources/Networking/AUN/Access/ShareFSBlob
-	url = ../../RiscOS/Sources/Networking/AUN/Access/ShareFSBlob.git
+	url = https://gitlab.riscosopen.org/bavison/ShareFSBlob.git
 [submodule "RiscOS/Sources/Networking/AUN/BootNet"]
 	path = RiscOS/Sources/Networking/AUN/BootNet
 	url = ../../RiscOS/Sources/Networking/AUN/BootNet.git
 [submodule "RiscOS/Sources/Networking/AUN/MManagerBlob"]
 	path = RiscOS/Sources/Networking/AUN/MManagerBlob
-	url = ../../RiscOS/Sources/Networking/AUN/MManagerBlob.git
+	url = https://gitlab.riscosopen.org/bavison/MManagerBlob.git
 [submodule "RiscOS/Sources/Networking/AUN/Net"]
 	path = RiscOS/Sources/Networking/AUN/Net
 	url = ../../RiscOS/Sources/Networking/AUN/Net.git
@@ -278,7 +278,7 @@
 	url = ../../RiscOS/Sources/Networking/DHCP.git
 [submodule "RiscOS/Sources/Networking/Econet"]
 	path = RiscOS/Sources/Networking/Econet
-	url = ../../RiscOS/Sources/Networking/Econet.git
+	url = https://gitlab.riscosopen.org/bavison/Econet.git
 [submodule "RiscOS/Sources/Networking/NetStatus"]
 	path = RiscOS/Sources/Networking/NetStatus
 	url = ../../RiscOS/Sources/Networking/NetStatus.git
@@ -287,13 +287,13 @@
 	url = ../../RiscOS/Sources/Networking/Omni/Protocols/OmniLanManFS.git
 [submodule "RiscOS/Sources/Networking/ResolverBlob"]
 	path = RiscOS/Sources/Networking/ResolverBlob
-	url = ../../RiscOS/Sources/Networking/ResolverBlob.git
+	url = https://gitlab.riscosopen.org/bavison/ResolverBlob.git
 [submodule "RiscOS/Sources/Printing/Modules/PDriver"]
 	path = RiscOS/Sources/Printing/Modules/PDriver
 	url = ../../RiscOS/Sources/Printing/Modules/PDriver.git
 [submodule "RiscOS/Sources/Programmer/BASIC"]
 	path = RiscOS/Sources/Programmer/BASIC
-	url = ../../RiscOS/Sources/Programmer/BASIC.git
+	url = https://gitlab.riscosopen.org/bavison/BASIC.git
 [submodule "RiscOS/Sources/Programmer/BootCmds"]
 	path = RiscOS/Sources/Programmer/BootCmds
 	url = ../../RiscOS/Sources/Programmer/BootCmds.git
@@ -305,7 +305,7 @@
 	url = ../../RiscOS/Sources/Programmer/DDEUtils.git
 [submodule "RiscOS/Sources/Programmer/Debugger"]
 	path = RiscOS/Sources/Programmer/Debugger
-	url = ../../RiscOS/Sources/Programmer/Debugger.git
+	url = https://gitlab.riscosopen.org/bavison/Debugger.git
 [submodule "RiscOS/Sources/Programmer/HdrSrc"]
 	path = RiscOS/Sources/Programmer/HdrSrc
 	url = ../../RiscOS/Sources/Programmer/HdrSrc.git
@@ -320,7 +320,7 @@
 	url = ../../RiscOS/Sources/Programmer/RTSupport.git
 [submodule "RiscOS/Sources/Toolbox/ColourDbox"]
 	path = RiscOS/Sources/Toolbox/ColourDbox
-	url = ../../RiscOS/Sources/Toolbox/ColourDbox.git
+	url = https://gitlab.riscosopen.org/bavison/ColourDbox.git
 [submodule "RiscOS/Sources/Toolbox/ColourMenu"]
 	path = RiscOS/Sources/Toolbox/ColourMenu
 	url = ../../RiscOS/Sources/Toolbox/ColourMenu.git
@@ -417,7 +417,7 @@
 	branch = Ursula
 [submodule "RiscOS/Utilities/Autobuild/ABRelease"]
 	path = RiscOS/Utilities/Autobuild/ABRelease
-	url = ../../RiscOS/Utilities/Autobuild/ABRelease.git
+	url = https://gitlab.riscosopen.org/bavison/ABRelease.git
 [submodule "RiscOS/Sources/Audio/SharedSnd"]
 	path = RiscOS/Sources/Audio/SharedSnd
 	url = ../../RiscOS/Sources/Audio/SharedSnd.git
@@ -429,16 +429,16 @@
 	url = ../../RiscOS/Apps/PlingPerl.git
 [submodule "RiscOS/Sources/Lib/DDTLib"]
 	path = RiscOS/Sources/Lib/DDTLib
-	url = ../../RiscOS/Sources/Lib/DDTLib.git
+	url = https://gitlab.riscosopen.org/bavison/DDTLib.git
 [submodule "RiscOS/Sources/Lib/Trace"]
 	path = RiscOS/Sources/Lib/Trace
-	url = ../../RiscOS/Sources/Lib/Trace.git
+	url = https://gitlab.riscosopen.org/bavison/Trace.git
 [submodule "RiscOS/Sources/Lib/Wild"]
 	path = RiscOS/Sources/Lib/Wild
-	url = ../../RiscOS/Sources/Lib/Wild.git
+	url = https://gitlab.riscosopen.org/bavison/Wild.git
 [submodule "RiscOS/Library"]
 	path = RiscOS/Library
-	url = ../../RiscOS/Library.git
+	url = https://gitlab.riscosopen.org/bavison/Library.git
 [submodule "RiscOS/Modules"]
 	path = RiscOS/Modules
 	url = ../../RiscOS/Modules.git
@@ -459,16 +459,16 @@
 	url = ../../RiscOS/Sources/Networking/AUN/Internet.git
 [submodule "RiscOS/Sources/SystemRes/InetRes"]
 	path = RiscOS/Sources/SystemRes/InetRes
-	url = ../../RiscOS/Sources/SystemRes/InetRes.git
+	url = https://gitlab.riscosopen.org/bavison/InetRes.git
 [submodule "RiscOS/Sources/Lib/Desk"]
 	path = RiscOS/Sources/Lib/Desk
-	url = ../../RiscOS/Sources/Lib/Desk.git
+	url = https://gitlab.riscosopen.org/bavison/Desk.git
 [submodule "RiscOS/Sources/Lib/OSLib"]
 	path = RiscOS/Sources/Lib/OSLib
 	url = ../../RiscOS/Sources/Lib/OSLib.git
 [submodule "RiscOS/Sources/Video/Render/SprExtend"]
 	path = RiscOS/Sources/Video/Render/SprExtend
-	url = ../../RiscOS/Sources/Video/Render/SprExtend.git
+	url = https://gitlab.riscosopen.org/bavison/SprExtend.git
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver.git
@@ -483,7 +483,7 @@
 	url = ../../RiscOS/Sources/FileSys/SDFS/SDFS.git
 [submodule "RiscOS/Sources/HWSupport/SD/SDCMOS"]
 	path = RiscOS/Sources/HWSupport/SD/SDCMOS
-	url = ../../RiscOS/Sources/HWSupport/SD/SDCMOS.git
+	url = https://gitlab.riscosopen.org/bavison/SDCMOS.git
 [submodule "RiscOS/Sources/HWSupport/SD/SDIODriver"]
 	path = RiscOS/Sources/HWSupport/SD/SDIODriver
 	url = ../../RiscOS/Sources/HWSupport/SD/SDIODriver.git
@@ -501,10 +501,10 @@
 	url = ../../RiscOS/Sources/Lib/ConfigLib.git
 [submodule "RiscOS/Sources/Video/UserI/BootFX"]
 	path = RiscOS/Sources/Video/UserI/BootFX
-	url = ../../RiscOS/Sources/Video/UserI/BootFX.git
+	url = https://gitlab.riscosopen.org/bavison/BootFX.git
 [submodule "RiscOS/Sources/SystemRes/HeroNames"]
 	path = RiscOS/Sources/SystemRes/HeroNames
-	url = ../../RiscOS/Sources/SystemRes/HeroNames.git
+	url = https://gitlab.riscosopen.org/bavison/HeroNames.git
 [submodule "RiscOS/Sources/Programmer/Squash"]
 	path = RiscOS/Sources/Programmer/Squash
 	url = ../../RiscOS/Sources/Programmer/Squash.git
@@ -516,7 +516,7 @@
 	url = ../../RiscOS/Sources/HWSupport/RTC.git
 [submodule "RiscOS/Sources/HWSupport/VFPSupport"]
 	path = RiscOS/Sources/HWSupport/VFPSupport
-	url = ../../RiscOS/Sources/HWSupport/VFPSupport.git
+	url = https://gitlab.riscosopen.org/bavison/VFPSupport.git
 [submodule "RiscOS/Sources/Networking/MimeMap"]
 	path = RiscOS/Sources/Networking/MimeMap
 	url = ../../RiscOS/Sources/Networking/MimeMap.git
@@ -529,7 +529,7 @@
 	url = ../../RiscOS/Sources/HWSupport/BCMSupport.git
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = ../../RiscOS/Sources/HWSupport/USB/USBDriver.git
+	url = https://gitlab.riscosopen.org/bavison/USBDriver.git
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver
 	url = ../../RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver.git
@@ -541,7 +541,7 @@
 	url = ../../RiscOS/Sources/Desktop/WindowScroll.git
 [submodule "RiscOS/Sources/Video/Render/CompressPNG"]
 	path = RiscOS/Sources/Video/Render/CompressPNG
-	url = ../../RiscOS/Sources/Video/Render/CompressPNG.git
+	url = https://gitlab.riscosopen.org/bavison/CompressPNG.git
 [submodule "RiscOS/Sources/Lib/SDIOLib"]
 	path = RiscOS/Sources/Lib/SDIOLib
 	url = ../../RiscOS/Sources/Lib/SDIOLib.git
