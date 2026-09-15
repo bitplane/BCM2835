@@ -15,7 +15,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Apps/AppsMakefile.git
 [submodule "RiscOS/BuildSys"]
 	path = RiscOS/BuildSys
-	url = https://gitlab.riscosopen.org/bavison/BuildSys.git
+	url = https://github.com/bitplane/BuildSys.git
 [submodule "RiscOS/Env"]
 	path = RiscOS/Env
 	url = https://gitlab.riscosopen.org/RiscOS/Env.git
@@ -227,7 +227,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Internat/Territory/TerritoryModule.git
 [submodule "RiscOS/Sources/Kernel"]
 	path = RiscOS/Sources/Kernel
-	url = https://gitlab.riscosopen.org/bavison/Kernel.git
+	url = https://github.com/bitplane/Kernel.git
 [submodule "RiscOS/Sources/Lib/AsmUtils"]
 	path = RiscOS/Sources/Lib/AsmUtils
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/AsmUtils.git
@@ -245,7 +245,7 @@
 	url = https://gitlab.riscosopen.org/bavison/PlainArgv.git
 [submodule "RiscOS/Sources/Lib/RISC_OSLib"]
 	path = RiscOS/Sources/Lib/RISC_OSLib
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/RISC_OSLib.git
+	url = https://github.com/bitplane/RISC_OSLib.git
 [submodule "RiscOS/Sources/Lib/UnicodeLib"]
 	path = RiscOS/Sources/Lib/UnicodeLib
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/UnicodeLib.git
@@ -317,7 +317,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Programmer/Obey.git
 [submodule "RiscOS/Sources/Programmer/RTSupport"]
 	path = RiscOS/Sources/Programmer/RTSupport
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/Programmer/RTSupport.git
+	url = https://github.com/bitplane/RTSupport.git
 [submodule "RiscOS/Sources/Toolbox/ColourDbox"]
 	path = RiscOS/Sources/Toolbox/ColourDbox
 	url = https://gitlab.riscosopen.org/bavison/ColourDbox.git
@@ -444,7 +444,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Modules.git
 [submodule "RiscOS/Sources/HAL/HAL_BCM2835"]
 	path = RiscOS/Sources/HAL/HAL_BCM2835
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/HAL/HAL_BCM2835.git
+	url = https://github.com/bitplane/HAL_BCM2835.git
 [submodule "RiscOS/Sources/HWSupport/FPASC"]
 	path = RiscOS/Sources/HWSupport/FPASC
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/FPASC.git
@@ -480,13 +480,13 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Networking/Ethernet/EtherUSB.git
 [submodule "RiscOS/Sources/FileSys/SDFS/SDFS"]
 	path = RiscOS/Sources/FileSys/SDFS/SDFS
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/FileSys/SDFS/SDFS.git
+	url = https://github.com/bitplane/SDFS.git
 [submodule "RiscOS/Sources/HWSupport/SD/SDCMOS"]
 	path = RiscOS/Sources/HWSupport/SD/SDCMOS
 	url = https://gitlab.riscosopen.org/bavison/SDCMOS.git
 [submodule "RiscOS/Sources/HWSupport/SD/SDIODriver"]
 	path = RiscOS/Sources/HWSupport/SD/SDIODriver
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/SD/SDIODriver.git
+	url = https://github.com/bitplane/SDIODriver.git
 [submodule "RiscOS/Sources/Video/HWSupport/BCMVideo"]
 	path = RiscOS/Sources/Video/HWSupport/BCMVideo
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Video/HWSupport/BCMVideo.git
@@ -526,7 +526,7 @@
 	branch = HAL
 [submodule "RiscOS/Sources/HWSupport/BCMSupport"]
 	path = RiscOS/Sources/HWSupport/BCMSupport
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/BCMSupport.git
+	url = https://github.com/bitplane/BCMSupport.git
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
 	url = https://gitlab.riscosopen.org/bavison/USBDriver.git
