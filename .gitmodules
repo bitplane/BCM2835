@@ -108,7 +108,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/FileSys/FileSwitch.git
 [submodule "RiscOS/Sources/FileSys/ImageFS/DOSFS"]
 	path = RiscOS/Sources/FileSys/ImageFS/DOSFS
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/FileSys/ImageFS/DOSFS.git
+	url = https://github.com/bitplane/DOSFS.git
 [submodule "RiscOS/Sources/FileSys/NetFS/NetFS"]
 	path = RiscOS/Sources/FileSys/NetFS/NetFS
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/FileSys/NetFS/NetFS.git
