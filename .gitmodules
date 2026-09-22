@@ -138,7 +138,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/FileSys/ResourceFS/ResourceFS.git
 [submodule "RiscOS/Sources/FileSys/SCSIFS/SCSIFS"]
 	path = RiscOS/Sources/FileSys/SCSIFS/SCSIFS
-	url = https://gitlab.riscosopen.org/bavison/SCSIFS.git
+	url = https://github.com/bitplane/SCSIFS.git
 [submodule "RiscOS/Sources/HWSupport/Buffers"]
 	path = RiscOS/Sources/HWSupport/Buffers
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/Buffers.git
@@ -173,7 +173,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/SCSI/SCSIDriver.git
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISwitch"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISwitch
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/SCSI/SCSISwitch.git
+	url = https://github.com/bitplane/SCSISwitch.git
 [submodule "RiscOS/Sources/HWSupport/SerMouse"]
 	path = RiscOS/Sources/HWSupport/SerMouse
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/SerMouse.git
@@ -251,7 +251,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/UnicodeLib.git
 [submodule "RiscOS/Sources/Lib/callx"]
 	path = RiscOS/Sources/Lib/callx
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/callx.git
+	url = https://github.com/bitplane/callx.git
 [submodule "RiscOS/Sources/Lib/remotedb"]
 	path = RiscOS/Sources/Lib/remotedb
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/remotedb.git
@@ -423,7 +423,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Audio/SharedSnd.git
 [submodule "RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI"]
 	path = RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/CD/CDFSSoftSCSI.git
+	url = https://github.com/bitplane/CDFSSoftSCSI.git
 [submodule "RiscOS/Apps/PlingPerl"]
 	path = RiscOS/Apps/!Perl
 	url = https://gitlab.riscosopen.org/RiscOS/Apps/PlingPerl.git
@@ -450,7 +450,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/FPASC.git
 [submodule "RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB"]
 	path = RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/SCSI/SCSISoftUSB.git
+	url = https://github.com/bitplane/SCSISoftUSB.git
 [submodule "RiscOS/Sources/Lib/TCPIPLibs"]
 	path = RiscOS/Sources/Lib/TCPIPLibs
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/TCPIPLibs.git
@@ -471,7 +471,7 @@
 	url = https://gitlab.riscosopen.org/bavison/SprExtend.git
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver
-	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/USB/Controllers/DWCDriver.git
+	url = https://github.com/bitplane/DWCDriver.git
 [submodule "RiscOS/Sources/Lib/SyncLib"]
 	path = RiscOS/Sources/Lib/SyncLib
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/SyncLib.git
@@ -529,7 +529,7 @@
 	url = https://github.com/bitplane/BCMSupport.git
 [submodule "RiscOS/Sources/HWSupport/USB/USBDriver"]
 	path = RiscOS/Sources/HWSupport/USB/USBDriver
-	url = https://gitlab.riscosopen.org/bavison/USBDriver.git
+	url = https://github.com/bitplane/USBDriver.git
 [submodule "RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver"]
 	path = RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/HWSupport/USB/Controllers/XHCIDriver.git
