@@ -102,7 +102,7 @@
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/FileSys/FSLock.git
 [submodule "RiscOS/Sources/FileSys/FileCore"]
 	path = RiscOS/Sources/FileSys/FileCore
-	url = https://gitlab.riscosopen.org/bavison/FileCore.git
+	url = https://github.com/bitplane/FileCore.git
 [submodule "RiscOS/Sources/FileSys/FileSwitch"]
 	path = RiscOS/Sources/FileSys/FileSwitch
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/FileSys/FileSwitch.git
