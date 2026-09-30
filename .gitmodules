@@ -545,3 +545,6 @@
 [submodule "RiscOS/Sources/Lib/SDIOLib"]
 	path = RiscOS/Sources/Lib/SDIOLib
 	url = https://gitlab.riscosopen.org/RiscOS/Sources/Lib/SDIOLib.git
+[submodule "RiscOS/Sources/FileSys/SCSIFS/PartMan"]
+	path = RiscOS/Sources/FileSys/SCSIFS/PartMan
+	url = https://github.com/bitplane/PartMan.git
